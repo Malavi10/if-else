@@ -1,0 +1,23 @@
+.block1{
+    background-color: aliceblue;
+    width: 50%;
+    margin: 10px auto;
+    text-align: center;
+    padding: 15px;
+}
+
+.block2{
+    background-color: rgb(193, 222, 248);
+    width: 50%;
+    margin: 10px auto;
+    text-align: center;
+    padding: 15px;
+}
+
+.block3{
+    background-color: rgb(152, 190, 223);
+    width: 50%;
+    margin: 10px auto;
+    text-align: center;
+    padding: 15px;
+}
